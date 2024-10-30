@@ -54,4 +54,4 @@ Feel free to reach out on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23
 ...
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ZeeMlangeni&icon=0&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ZeeMlangeni&label=Profile%20Views&color=5&icon=5&pretty=true)](https://visitcount.itsvg.in)
