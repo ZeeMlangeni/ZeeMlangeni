@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hey, I'm Zandile! 👋<br>
-I'm a tech enthusiast diving head-first into the world of front-end development, aiming to make a real impact with my code. Currently studying IT in South Africa, I'm all about finding creative ways to build things—whether it's crafting smooth user interfaces or adding unique touches to personal projects.
+I'm a tech enthusiast diving head-first into the world of front-end development, aiming to make a real impact with my code. Currently studying IT in South Africa, I'm all about finding creative ways to build things whether it's crafting smooth user interfaces or adding unique touches to personal projects.
 
 ## What’s on My Plate 🍽️
 - **Mastering the Web**: From JavaScript and React to the occasional CSS flexbox showdown, I’m digging into front-end magic to bring ideas to life.
