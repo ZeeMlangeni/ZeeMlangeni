@@ -4,7 +4,7 @@ I'm a tech enthusiast diving head-first into the world of front-end development,
 
 ## What’s on My Plate 🍽️
 - **Mastering the Web**: From JavaScript and React to the occasional CSS flexbox showdown, I’m digging into front-end magic to bring ideas to life.
-- **Real-World Project**: Working on a showcase website for my family's hardware store—think catalog vibes, no shopping cart drama.
+- **Real-World Project**: Working on a showcase website for my family's hardware store think catalog vibes, no shopping cart drama.
 - **Expanding the Toolbox**: Learning about frameworks, libraries, and how to make my code as efficient as possible.
 
 ## Fun Extras 🌌
